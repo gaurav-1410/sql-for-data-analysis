@@ -103,4 +103,3 @@ FROM
     AND o.status = 'Delivered'
 WHERE
 	o.order_id IS NULL;
-    
